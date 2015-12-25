@@ -6,9 +6,9 @@
     <EndingText>&lt;BODY scroll=auto&gt;Ending Title Text&amp;nbsp;of PMC Test Campaign 1&lt;/BODY&gt;</EndingText>
     <Items>
         <Scenario>
-            <Name>PMC Test Scenario 1</Name>
-            <ID>5c3fda4f-6fca-4a79-865c-d33e9f8b2a76</ID>
-            <File>PMC.Test.Scenario.1.scen</File>
+            <Name>PMC Ferry F-15's to Iceland</Name>
+            <ID>a691378a-0f56-486b-b4c3-507e077b4488</ID>
+            <File>PMC.Ferry.F-15s.to.Iceland.scen</File>
             <PassScore>0</PassScore>
         </Scenario>
     </Items>
