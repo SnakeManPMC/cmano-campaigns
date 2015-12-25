@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Campaign>
+    <ID>cd854e74-cd2b-43d8-b382-5dc08ed8f00e</ID>
+    <Name>PMC Test Campaign 1</Name>
+    <Description>&lt;BODY scroll=auto&gt;Description of PMC Test Campaign 1&lt;/BODY&gt;</Description>
+    <EndingText>&lt;BODY scroll=auto&gt;Ending Title Text&amp;nbsp;of PMC Test Campaign 1&lt;/BODY&gt;</EndingText>
+    <Items>
+        <Scenario>
+            <Name>PMC Test Scenario 1</Name>
+            <ID>5c3fda4f-6fca-4a79-865c-d33e9f8b2a76</ID>
+            <File>PMC.Test.Scenario.1.scen</File>
+            <PassScore>0</PassScore>
+        </Scenario>
+    </Items>
+</Campaign>
