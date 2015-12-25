@@ -1,2 +1,3 @@
 # cmano-campaigns
-CMANO Campaigns
+
+Command Modern Air/Naval Operations, Campaigns
